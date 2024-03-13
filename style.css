@@ -51,7 +51,29 @@ margin-bottom:  20px;
 #price1{
     display: flex;
     flex: auto;
-    margin-left: 60%;
-    margin-top:  40px;
-    gap: 20px;
+    display: flex;
+    flex: auto;
+    width: 200px;
+    height: 250px;
+    gap: 20%;
+}
+#image5{
+
+    display: flex;
+    flex: auto;
+    display: flex;
+    flex: auto;
+    width: 200px;
+    height: 250px;
+    gap: 20%  
+}
+#price2{
+  
+    display: flex;
+    flex: auto;
+    display: flex;
+    flex: auto;
+    width: 200px;
+    height: 250px;
+    gap: 20%   
 }
