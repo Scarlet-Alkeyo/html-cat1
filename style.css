@@ -1,0 +1,56 @@
+#heading{
+
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex: auto;
+    gap: 5%;
+    text-align: center;
+    
+    
+    
+}
+#navbar{
+    display: flex;
+    flex: auto;
+    gap: 20px;
+   
+
+
+}
+#vase2{
+margin-left: 60%;
+margin-bottom:  20px;
+
+}
+#vase2b{
+
+    margin-left: 60%;
+    margin-bottom:  20px;
+    
+
+
+}
+#vase3{
+    display: flex;
+    flex: auto;
+    gap: 20%;  
+}
+#heading2{
+    text-align: center;
+}
+#image4{
+    display: flex;
+    flex: auto;
+    display: flex;
+    flex: auto;
+    width: 200px;
+    height: 250px;
+    gap: 20%;
+}
+#price1{
+    display: flex;
+    flex: auto;
+    margin-left: 60%;
+    margin-top:  40px;
+}
